@@ -17,9 +17,8 @@ In particular, we are now using Simba `standalone-2.1` version and CarbonData 1.
 Contributors
 ------------
 - Dong Xie: dongx [at] cs [dot] utah [dot] edu
-- Gefei Li: oizz01 [at] sjtu [dot] edu [dot] cn
-- Liang Zhou: nichozl [at] sjtu [dot] edu [dot] cn
-- Zhongpu Chen: chenzhongpu [at] sjtu [dot] edu [dot] cn
+- Yanqing Peng: cosineufo [at] gmail [dot] com
 - Feifei Li: lifeifei [at] cs [dot] utah [dot] edu
-- Bin Yao: yaobin [at] cs [dot] sjtu [dot] edu [dot] cn
-- Minyi Guo: guo-my [at] cs [dot] sjtu [dot] edu [dot] cn
+- Kun Li: jacky [dot] likun [at] huawei [dot] com
+- Jihong Ma: Jihong [dot] Ma [at] huawei [dot] com
+- Qingqing Zhou: Qingqing [dot] Zhou [at] huawei [dot] com
